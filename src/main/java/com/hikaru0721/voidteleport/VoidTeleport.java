@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import com.hikaru0721.voidteleport.listener.VoidTeleportListener;
 
 /**
- * Void Teleport plugin for Bukkit.
+ * VoidTeleport plugin for Bukkit.
  * @author HIKARU0721
  */
 public class VoidTeleport extends JavaPlugin {

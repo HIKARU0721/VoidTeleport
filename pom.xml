@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hikaru0721</groupId>
     <artifactId>voidteleport</artifactId>
-    <version>1.7.10-R0.1-SNAPSHOT</version>
+    <version>1.8-R0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>VoidTeleport</name>
-    <description>Void Teleport plugin for Bukkit.</description>
+    <description>VoidTeleport plugin for Bukkit.</description>
     <licenses>
         <license>
             <name>GNU Lesser General Public License version 3</name>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.7.10-R0.1-SNAPSHOT</version>
+            <version>1.8-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <build>

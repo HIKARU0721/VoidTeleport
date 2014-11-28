@@ -11,13 +11,13 @@ import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.entity.EntityDamageEvent.DamageCause;
 
 /**
- * Void Teleport Listener
+ * VoidTeleportListener
  * @author HIKARU0721
  */
 public class VoidTeleportListener implements Listener {
     
     /**
-     * Entity Damage Event
+     * EntityDamageEvent
      * @param event
      */
     @EventHandler(priority = EventPriority.NORMAL, ignoreCancelled = true)

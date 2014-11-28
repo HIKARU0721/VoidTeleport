@@ -1,6 +1,6 @@
 name: VoidTeleport
-version: 1.7.10-R0.1-SNAPSHOT
-description: Void Teleport plugin for Bukkit.
+version: 1.8-R0.1-SNAPSHOT
+description: VoidTeleport plugin for Bukkit.
 load: POSTWORLD
 author: HIKARU0721
 authors:
